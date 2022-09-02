@@ -225,6 +225,7 @@ footer {
 
     .logos {
         flex-direction: column;
+        gap: 110px;
     }
 
     .footer-div, .footer-div-l {
